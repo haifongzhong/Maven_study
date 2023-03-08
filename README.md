@@ -1,6 +1,6 @@
 # 一、主要内容
 
-![img](https://img-blog.csdnimg.cn/73d1abbb93924be1bc3a72248aa3052a.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081356534.png)
 
 # 二、Maven的简介
 
@@ -94,7 +94,7 @@ Ant时代⼤家创建Java项⽬⽬录时⽐较随意，然后通过Ant配置指�
 
 JDK版本1.7及以上版本 
 
-![img](https://img-blog.csdnimg.cn/25458f61bed946778d04b59986c07c37.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081357610.png)
 
 ### 3.1.2. 下载Maven
 
@@ -108,27 +108,27 @@ JDK版本1.7及以上版本
 
 步骤：电脑 &gt; 属性 &gt; 高级系统设置 &gt; 环境变量 
 
-![img](https://img-blog.csdnimg.cn/3b605d856bc84c6a80dd19c05bd891f0.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16) 
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081357780.png) 
 
 Path里面添加：`%MAVEN_HOME% `
 
- ![img](https://img-blog.csdnimg.cn/0cb83c93285344af8e8b9eb8e8d8c430.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_19,color_FFFFFF,t_70,g_se,x_16)
+ ![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081358833.png)
 
 ### 3.1.4. 检查Maven是否安装成功
 
 打开dos窗⼝，执⾏ `mvn -v` 
 
-![img](https://img-blog.csdnimg.cn/7ba51c1c5efc413aaf9ac6ce204b0040.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081359528.png)
 
 ## 3.2. 认识Maven⽬录结构
 
 
-Maven项⽬⽬录结构 ![img](https://img-blog.csdnimg.cn/81d0beea3e17461ab37e017bec67a2c0.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+Maven项⽬⽬录结构 ![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081400518.png)
 
 任务:⼿动创建⼀个Maven项⽬，并编译运⾏成功
 
 
-![img](https://img-blog.csdnimg.cn/7e79ee37ba3445269cfc15cbe139fd2d.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081400782.png)
 
 ### 3.2.1. 创建⼀个⽂件夹作为项⽬的根⽬录
 
@@ -201,7 +201,7 @@ public class Hello{
 ```
 
 
-![img](https://img-blog.csdnimg.cn/141e664ad3814af9a8581fc74aba1d39.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081402391.png)
 
 ### 3.2.3. cmd 下编译并运⾏
 
@@ -214,7 +214,7 @@ public class Hello{
 ```
 
 
-![img](https://img-blog.csdnimg.cn/98ea2a13f5ab4afca366d0bd5d70482e.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081400066.png)
 
 注：仓库位置改为⾃⼰本机的指定⽬录，"/"不要写反
 
@@ -233,11 +233,11 @@ public class Hello{
 
 -  编译java⽂件：`mvn compile  `
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/fb790826b985436e99e9ed6c0508e649.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+![在这里插入图片描述](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081401380.png)
 
 -  执⾏main ⽅法：`mvn exec:java -Dexec.mainClass="com.xxxx.demo.Hello"` 
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/6204857591df4b118ad66c076e338153.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+![在这里插入图片描述](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081401305.png)
 
 **如果编译不成功，可能出现的问题**
 
@@ -261,7 +261,7 @@ mvn [plugin-name]:[goal-name]
 ## 4.1. 常⽤命令
 
 
-![img](https://img-blog.csdnimg.cn/6a2cbf9cb5584140bb0c00aadd6fd599.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16) 注意：运⾏maven命令的时候，⾸先需要定位到maven项⽬的⽬录，也就是项⽬的pom.xml⽂件所在的⽬录。否则，必以通过参数来指定项⽬的⽬录。
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081403779.png) 注意：运⾏maven命令的时候，⾸先需要定位到maven项⽬的⽬录，也就是项⽬的pom.xml⽂件所在的⽬录。否则，必以通过参数来指定项⽬的⽬录。
 
 ## 4.2. 命令参数
 
@@ -334,10 +334,10 @@ mvn [plugin-name]:[goal-name]
 
 **选择 “File” —> “New Projects Settings / Other Settings” —> “Settings for New Projects…” —> 搜索 “Maven”**
 
- ![img](https://img-blog.csdnimg.cn/13bcc7ead28248088e4428d267ce857a.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_14,color_FFFFFF,t_70,g_se,x_16)
+ ![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081403211.png)
 
 
-![img](https://img-blog.csdnimg.cn/3cbde23959ad40b3aa5ce2824d443157.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081403041.png)
 
 注意：点Apply后，记得点OK
 
@@ -349,68 +349,67 @@ mvn [plugin-name]:[goal-name]
 
 **1）选择 “File” —> “New” —> “Project”** 
 
-![img](https://img-blog.csdnimg.cn/5f31b1253f814b168ac34a1a4c4c3e7c.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081403493.png)
 
 **2)选择"Maven"，设置JDK版本，选择maven项⽬的模板**
 
-![img](https://img-blog.csdnimg.cn/6c25612406284dfab4e2bc9fc31df27e.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081404299.png)
 
 **3)设置项⽬的 GroupId 和 ArtifactId** 
 
-![img](https://img-blog.csdnimg.cn/db487eea0af944539095bc3cd20e61d2.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081403910.png)
 
 **4）检查Maven环境，选择 “Finish”（之前配置了环境）** 
 
-![img](https://img-blog.csdnimg.cn/03ba1a35154e4d898e8431bc1192f226.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16) 
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081404318.png) 
 
 **5)等待项⽬创建，下载资源，创建完成后⽬录结构如下**   
 
-![img](https://img-blog.csdnimg.cn/3b22376348804427827af006b952dee9.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)注：右下⻆弹出的提示框，选择 “Enable Auto-Import”（Maven启动⾃动导⼊)
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081404470.png)注：右下⻆弹出的提示框，选择 “Enable Auto-Import”（Maven启动⾃动导⼊)
 
 **6）如果需要用 resources资源目录 就手动创建**
 
 -  main目录下  
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/ec4b0e0fa8fb4aef93d9c7beb6fd5dff.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+![在这里插入图片描述](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081404815.png)
 
- ![在这里插入图片描述](https://img-blog.csdnimg.cn/cc122022dcc34980894ffb5060dd273a.png)
+ ![在这里插入图片描述](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081404116.png)
 
 -  test（测试环境）目录下也有 
 
- ![在这里插入图片描述](https://img-blog.csdnimg.cn/20cce1ce41df42e9b73ae93008aaa406.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_13,color_FFFFFF,t_70,g_se,x_16)
+ ![在这里插入图片描述](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081405884.png)
 
 ### 6.1.2. 编译项⽬
 
 **1）点击右上⻆的 "Add Configurations "，打开 “Run/Debug Configurations” 窗⼝**
 
-![img](https://img-blog.csdnimg.cn/dd5e8c04dd03411eb1e7147c0b2d02e6.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)  
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081405434.png)  
 
 **2）点击左上⻆的 “+” 号，选择 “Maven”** 
 
-![img](https://img-blog.csdnimg.cn/84c58fddf4fb4f46bad4c7b97a306667.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16) 
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081405937.png) 
 
 **3)设置编译项⽬的命令，先Apply后OK** 
 
-![img](https://img-blog.csdnimg.cn/5194a09f188e44a0b44b3eb41523adfb.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16) **4)执⾏编译命令，两个图标分别代表"普通模式"和"调试模式"** 
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081405504.png) **4)执⾏编译命令，两个图标分别代表"普通模式"和"调试模式"** 
 
- ![img](https://img-blog.csdnimg.cn/ec7dbfe313574f8598f4164d50ddcea0.png) 
+ ![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081405412.png) 
 
 **5）编译成功** 
 
-![img](https://img-blog.csdnimg.cn/99771a17467341799719ec2e8f24de88.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081405126.png)
 
- ![img](https://img-blog.csdnimg.cn/2dec371130f943e5b0d68b4acf353e60.png)
+ ![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081405985.png)
 
 ## 6.2. 创建 Web项⽬
 
 ### 6.2.1. 创建项⽬
 
-
-**1）创建Web项⽬与创建Java项⽬步骤基本⼀致，区别在于选择 Maven模板（web项⽬选择 webapp），如图：** ![img](https://img-blog.csdnimg.cn/22ec0b5adf4f4bfa9bffd417e12a9c3b.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)注意：其他步骤与创建普通的Java项⽬相同。
+**1）创建Web项⽬与创建Java项⽬步骤基本⼀致，区别在于选择 Maven模板（web项⽬选择 webapp），如图：** ![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081405767.png)注意：其他步骤与创建普通的Java项⽬相同。
 
 **2）项⽬⽬录结构如下：**
 
- ![img](https://img-blog.csdnimg.cn/ec7ebbc7b2cd4e8b875989d985ed5b84.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_13,color_FFFFFF,t_70,g_se,x_16)
+ ![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081405427.png)
 
 ### 6.2.2. 修改配置文件
 
@@ -449,7 +448,7 @@ mvn [plugin-name]:[goal-name]
 ```
 
 
-![img](https://img-blog.csdnimg.cn/b0243afa63ca44e3be769fec9165587c.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081406111.png)
 
 **添加web部署的插件**
 
@@ -497,34 +496,32 @@ mvn [plugin-name]:[goal-name]
 
 ### 6.2.3. 启动项⽬
 
+**1）点击右上⻆的 "Add Configurations "，打开 “Run/Debug Configurations” 窗⼝** ![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081406985.png)
 
-**1）点击右上⻆的 "Add Configurations "，打开 “Run/Debug Configurations” 窗⼝** ![img](https://img-blog.csdnimg.cn/3d9527a468ad4fc691c88a59865ff212.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
-
-
-**2）点击左上⻆的 “+” 号，选择 “Maven”** ![img](https://img-blog.csdnimg.cn/f72c3806f49547a6ae144b83251ea8c4.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16) **3）Jetty插件配置**
+**2）点击左上⻆的 “+” 号，选择 “Maven”** ![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081406896.png) **3)Jetty插件配置**
 
 
-![img](https://img-blog.csdnimg.cn/6b0e5d5aa409447596dc6d96f8df0a9e.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081406134.png)
 
 **4）点击启动图标，启动服务**
 
- ![img](https://img-blog.csdnimg.cn/9242a7f6b8c449c49f191238154ddc6e.png)
+ ![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081406579.png)
 
 **5）启动成功**
 
-![img](https://img-blog.csdnimg.cn/9f3a465f6f144239a783ba9825bd686d.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16) **6）浏览器效果如下** ![img](https://img-blog.csdnimg.cn/b00ef57d89934d5ab96b63bfcce8e0bf.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_19,color_FFFFFF,t_70,g_se,x_16)
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081406605.png) **6）浏览器效果如下** ![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081414646.png)
 
 **7）Tomcat插件配置**
 
 
-![img](https://img-blog.csdnimg.cn/0eb3670451ac4d4996ff214fab30a389.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16) **8）启动⽅式如上，启动成功**
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081406937.png) **8)启动⽅式如上，启动成功**
 
 
-![img](https://img-blog.csdnimg.cn/a3376e59bf5648be99e47d350d27c325.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081407793.png)
 
 **9）浏览器效果如下** 
 
- ![img](https://img-blog.csdnimg.cn/2b2cf70693e142498f95d2ba2490ac10.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_18,color_FFFFFF,t_70,g_se,x_16)
+ ![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081407573.png)
 
 **Maven依赖仓库**： [https://mvnrepository.com/](https://mvnrepository.com/)
 
@@ -623,33 +620,32 @@ maven-model-builder-3.3.9.jar maven⾃动的 jar 中包含了⼀个 超级POM。
 
 ## 8.1. 创建 maven_parent 项⽬
 
-
-**1）选择 File —> Settings —> Project** ![img](https://img-blog.csdnimg.cn/35f6d76d987041e6a74360275049bf26.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+**1）选择 File —> Settings —> Project** ![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081407914.png)
 
 **2） 设置项⽬名称及⼯作空间，GroupId 和 ArtifactId**
 
 
-![img](https://img-blog.csdnimg.cn/290d6f9d2f0f45059b5888080a55a066.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081407381.png)
 
 ## 8.2. 创建 maven_dao 模块
 
 **1）选择项⽬maven_parent，右键选择 New ，选择Module**
 
 
-![img](https://img-blog.csdnimg.cn/8bce10133316494985c7359cb5db87c6.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16) **2）选择Maven项⽬的模板（普通 Java 项⽬）**
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081407648.png) **2）选择Maven项⽬的模板（普通 Java 项⽬)**
 
 
-![img](https://img-blog.csdnimg.cn/6b1bf5b680904d048f76f7e33621bc50.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081407807.png)
 
 **3）设置⼦模块的名称及存放位置，设置⼦模块的的 ArtifactId**
 
 
-![img](https://img-blog.csdnimg.cn/29065d6b88b04b91b2c51d69b6c03e9f.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081407122.png)
 
 **4）设置Maven的配置（默认就行）**
 
 
-![img](https://img-blog.csdnimg.cn/9378e5f01ccb49a2a9fe0d1b9fc99fc3.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081410267.png)
 
 ## 8.3. 创建 maven_service 模块
 
@@ -662,7 +658,7 @@ maven-model-builder-3.3.9.jar maven⾃动的 jar 中包含了⼀个 超级POM。
 模块全部创建完毕后，效果如下：
 
 
-![img](https://img-blog.csdnimg.cn/c31a569890da43da8ba73ff843adf742.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081409262.png)
 
 ## 8.5. 修改模块的配置
 
@@ -674,15 +670,14 @@ maven-model-builder-3.3.9.jar maven⾃动的 jar 中包含了⼀个 超级POM。
 
 ### 8.6.1. maven_dao
 
-
-**1）新建包 dao** ![img](https://img-blog.csdnimg.cn/c1425ac4ff5c4f6e9c57374bf78ff11d.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+**1）新建包 dao** ![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081409323.png)
 
 **2）在包中创建 UserDao类**
 
 
- ![img](https://img-blog.csdnimg.cn/2464f3e523f042ccbc6ceed00b128200.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_11,color_FFFFFF,t_70,g_se,x_16)
+ ![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081409909.png)
 
- ![img](https://img-blog.csdnimg.cn/8632126ab2604835935ab5da7432b180.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_12,color_FFFFFF,t_70,g_se,x_16)
+ ![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081409461.png)
 
  
 
@@ -714,7 +709,7 @@ public class UserDao {
 ```
 
 
-![img](https://img-blog.csdnimg.cn/173b22fa775e40fca4e5ab9f5d4b2d61.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081409309.png)
 
 **2）新建包 service**
 
@@ -765,12 +760,12 @@ public class UserService {
 
 
 
-![img](https://img-blog.csdnimg.cn/4fdf9af68ee14c149c4029d47afa0a3f.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16) **3）main下创建一个java包，补全下面文件**
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081409152.png) **3）main下创建一个java包，补全下面文件**
 
- ![img](https://img-blog.csdnimg.cn/b3ca410b6ab4429a9707f08374dfbbc0.png)
+ ![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081409934.png)
 
 
-![img](https://img-blog.csdnimg.cn/01ec09d70aee4b858c7b545bd419706d.png) 
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081409329.png) 
 
 **4）继承 HttpServlet 类，并重写 service⽅法**
 
@@ -819,28 +814,27 @@ public class UserServlet extends HttpServlet {
 ```
 
 
-![img](https://img-blog.csdnimg.cn/1557d6c26178437fa7d858f39e5e93bc.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081409495.png)
 
-
-**6）启动项⽬** ![img](https://img-blog.csdnimg.cn/fe54223a2ecd485e9b5cb82aef6ab652.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16) **7）访问项⽬**
+**6）启动项⽬** ![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081409474.png) **7)访问项⽬**
 
 
 - 访问地址：  [http://localhost:8080/web/user](http://localhost:8080/web/user) 
-- 控制台结果： ![img](https://img-blog.csdnimg.cn/2588d9267d0a442199548500fc1e77c9.png)
+- 控制台结果： ![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081409197.png)
 
 **8）如果启动失败，请先将⽗项⽬ install**
 
 
-![img](https://img-blog.csdnimg.cn/566c2e2ad3f24b3680666aee833422f0.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)注意：如果⽗项⽬ install 失败，则先将所有⼦模块 install 成功后，再 install ⽗项⽬。
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081409043.png)注意：如果⽗项⽬ install 失败，则先将所有⼦模块 install 成功后，再 install ⽗项⽬。
 
 
-然后依次去启动一下 ![img](https://img-blog.csdnimg.cn/5b93f3bf46a14190800147f69677635e.png)
+然后依次去启动一下 ![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081416773.png)
 
 
-![img](https://img-blog.csdnimg.cn/f666775a1f594de5bda2cb523dab4c8b.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16) 最后启动：tomcat7，访问浏览器，控制台显示如下：
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081409269.png) 最后启动：tomcat7，访问浏览器，控制台显示如下：
 
 
-![img](https://img-blog.csdnimg.cn/990eab23f4b84b8693685ea9077be9a1.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081409507.png)
 
 # 九、Maven的打包操作
 
@@ -851,27 +845,27 @@ public class UserServlet extends HttpServlet {
 ## 9.1. 建⽴对应的⽬录结构
 
 
-使⽤idea创建项⽬，⽬录结构可能会缺失，需要通过⼿动添加对应的⽬录。 ![img](https://img-blog.csdnimg.cn/7acea5fa2ecb46f99af2f21c4cad5e97.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_13,color_FFFFFF,t_70,g_se,x_16)
+使⽤idea创建项⽬，⽬录结构可能会缺失，需要通过⼿动添加对应的⽬录。 ![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081409555.png)
 
 **1）添加 Java 源⽂件夹**
 
 
-选择项⽬的 main ⽂件夹，右键选择New，选择Directory ![img](https://img-blog.csdnimg.cn/b556a643a3ce42bdb69a5a5840f03a0e.png)
+选择项⽬的 main ⽂件夹，右键选择New，选择Directory ![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081409559.png)
 
 **2）添加资源⽂件夹**
 
 选择项⽬的 main ⽂件夹，右键选择New，选择Directory
 
 
- ![img](https://img-blog.csdnimg.cn/b8f433501d9c462a9f449d2d5900a147.png)
+ ![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081409921.png)
 
 
- ![img](https://img-blog.csdnimg.cn/71ba74dc566b4d57a4f5a05bf848e135.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_15,color_FFFFFF,t_70,g_se,x_16)
+ ![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081408193.png)
 
 **3）添加对应的⽂件夹⽬录，及添加不同环境下对应的配置⽂件。（本地环境、测试环境、正式环境）**
 
 
- ![img](https://img-blog.csdnimg.cn/4dc20169fb764302a1bc80d5e349be53.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_13,color_FFFFFF,t_70,g_se,x_16)
+ ![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081408245.png)
 
 ## 9.2. 添加Profile配置
 
@@ -906,7 +900,7 @@ public class UserServlet extends HttpServlet {
 ```
 
 
-![img](https://img-blog.csdnimg.cn/b5b6a4dd5c9f4522bdbb345d3192139a.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081408349.png)
 
 ## 9.3. 设置资源⽂件配置
 
@@ -928,14 +922,14 @@ public class UserServlet extends HttpServlet {
     </resources>
 ```
 
-![img](https://img-blog.csdnimg.cn/eea70d65b3ea4d1d814efeb8b6386b53.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081408475.png)
 
 ## 9.4. 执⾏打包操作
 
 打开Run/Debug Configuarations窗⼝，输⼊对应的打包命令
 
 
-![img](https://img-blog.csdnimg.cn/0b7784063e484bca92b8a44237b52ecd.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081417934.png)
 
 **此时对应打包命令**：
 
@@ -943,10 +937,10 @@ public class UserServlet extends HttpServlet {
 - clean compile package -Ptest -Dmaven.test.skip=true，打包测试环境并且跳过maven 测试操作 
 - clean compile package -Pproduct -Dmaven.test.skip=true，打包⽣产环境并且跳过maven 测试操作
 
-**打包成功**： ![img](https://img-blog.csdnimg.cn/dd00a59afb974b818f536d03c4649c70.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBA5aSn5pWw5o2uX-Wwj-iigQ==,size_20,color_FFFFFF,t_70,g_se,x_16)**不同的项⽬打包的⽂件不⼀样，⼀般来说，普通java项⽬打成jar包，web项⽬打成war包：**
+**打包成功**： ![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081408319.png)**不同的项⽬打包的⽂件不⼀样，⼀般来说，普通java项⽬打成jar包，web项⽬打成war包：**
 
 
-![img](https://img-blog.csdnimg.cn/87f263a34fcc4814978325a7688f244a.png)
+![img](https://gitee.com/zhong-haifeng/drawing-bed/raw/master/blogImage/202303081408804.png)
 
 # 十、Maven依赖的基本概念
 
