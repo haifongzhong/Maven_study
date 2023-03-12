@@ -806,6 +806,8 @@ public class UserServlet extends HttpServlet {
  <configuration>
  <!-- <port>8080</port> -->
  <path>/web</path>
+ <!-- 启用热部署 -->
+ <update>true</update>
  <uriEncoding>UTF-8</uriEncoding>
  <server>tomcat7</server>
  </configuration>
